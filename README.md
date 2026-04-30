@@ -7,9 +7,9 @@ embedded systems • firmware • hardware
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="70%">
+<td valign="middle" width="70%">
 
 ### 🧠 languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -26,8 +26,10 @@ embedded systems • firmware • hardware
 ![Thonny](https://img.shields.io/badge/Thonny-1D4ED8?style=for-the-badge)
 
 </td>
-<td align="center" width="30%">
-<img src="[assets/butterfly.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpyaDlpZ2NlM21rdDVubWllbjZ0eDZhcGg5cGUyaDFtZmZ1Z3lmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/spqteA7wkCfv8RQ1wX/giphy.gif)" width="160">
+<td align="center" valign="middle" width="30%">
+
+<img src="80ef55cb-f37b-41f8-9fba-232403b69efe.png" width="150">
+
 </td>
 </tr>
 </table>
