@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 28px;">a touch of whimsy, and a little bit of stem</span>
+    <span style="font-size: 600px;">a touch of whimsy, and a little bit of stem</span>
   </strong>
 </p>
 
@@ -35,6 +35,7 @@ Electrical Engineering @ UCalgary <br>
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Thonny](https://img.shields.io/badge/Thonny-1D4ED8?style=for-the-badge)
 
+###  ﹏𓊝﹏𓂁﹏
 </td>
 </tr>
 </table>
