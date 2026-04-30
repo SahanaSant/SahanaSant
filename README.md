@@ -1,4 +1,4 @@
-<img src="giphy.gif" width="22%" align="right" />
+<img src="giphy.gif" width="40%" align="right" />
 
 <p align="center">
   <strong>
@@ -8,7 +8,7 @@
 
 <p align="center">
 Electrical Engineering @ UCalgary <br>
-embedded systems • firmware • hardware
+    embedded systems • firmware • hardware
 </p>
 
 <br clear="right" />
