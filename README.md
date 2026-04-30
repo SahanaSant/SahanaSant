@@ -1,15 +1,25 @@
-<h1 align="center">a touch of whimsy, and a little bit of stem</h1>
+<img src="giphy.gif" width="22%" align="right" />
+
+<p align="center">
+  <strong>
+    <span style="font-size: 28px;">a touch of whimsy, and a little bit of stem</span>
+  </strong>
+</p>
 
 <p align="center">
 Electrical Engineering @ UCalgary <br>
 embedded systems • firmware • hardware
 </p>
 
+<br clear="right" />
+
 ---
 
-<table width="100%">
+## ⚙️ tech stack
+
+<table>
 <tr>
-<td valign="middle" width="70%">
+<td width="1000" align="center">
 
 ### 🧠 languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -26,30 +36,9 @@ embedded systems • firmware • hardware
 ![Thonny](https://img.shields.io/badge/Thonny-1D4ED8?style=for-the-badge)
 
 </td>
-<td align="center" valign="middle" width="30%">
-
-<img src="80ef55cb-f37b-41f8-9fba-232403b69efe.png" width="150">
-
-</td>
 </tr>
 </table>
 
----
+### 🎧 currently
+off from school, perchance building something (☞ ͡° ͜ʖ ͡°)☞
 
-## 🚧 current builds
-- rc car with bluetooth + ultrasonic sensing  
-- midi visualizer (nRF52840 + zephyr + lvgl)  
-- experimenting with audio + displays + embedded systems  
-
----
-
-## 🎧 currently
-off from school, perchance building something (☞ ͡° ͜ʖ ͡°)☞ 
-
----
-
-## 🧩 a little more
-- kendrick lamar enthusiast, along with other wonderful artists
-- ex gym bro
-- maybe i do sing, exploring a rap career
-- but of course i love the chaos of hardware and creativity 
