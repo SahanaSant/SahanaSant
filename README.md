@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 600px;">a touch of whimsy, and a little bit of stem</span>
+    <span style="font-size: 600px;"> some whimsy, and a little bit of stem</span>
   </strong>
 </p>
 
