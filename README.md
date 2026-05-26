@@ -32,7 +32,7 @@ Electrical Engineering @ UCalgary <br>
 ![Zephyr](https://img.shields.io/badge/Zephyr-000000?style=for-the-badge)
 
 ### 🛠 tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Thonny](https://img.shields.io/badge/Thonny-1D4ED8?style=for-the-badge)
 
