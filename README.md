@@ -28,7 +28,7 @@ Electrical Engineering @ UCalgary <br>
 
 ### 🔌 embedded / hardware
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino)
 ![Zephyr](https://img.shields.io/badge/Zephyr-000000?style=for-the-badge)
 
 ### 🛠 tools
