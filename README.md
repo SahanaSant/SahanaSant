@@ -17,29 +17,10 @@ Electrical Engineering @ UCalgary <br>
 
 ## ⚙️ tech stack
 
-<table>
-<tr>
-<td width="1000" align="center">
-
-### 🧠 languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🔌 embedded / hardware
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-A22846?style=for-the-badge&logo=raspberry-pi)
-![ESP32](https://img.shields.io/badge/ESP32-00979D?style=for-the-badge&logo=arduino)
-![Zephyr](https://img.shields.io/badge/Zephyr-000000?style=for-the-badge)
-
-### 🛠 tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Thonny](https://img.shields.io/badge/Thonny-1D4ED8?style=for-the-badge)
-
-###  ﹏𓊝﹏𓂁﹏
-</td>
-</tr>
-</table>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,python,java,raspberrypi,github,autocad,vscode&theme=dark" alt="C, Python, Java, Raspberry Pi, GitHub, AutoCad, VS Code" /> 
+</p> 
+<p align="center"> <img src="https://img.shields.io/badge/ESP32-0B7285?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Zephyr-111827?style=for-the-badge&logo=zephyrproject&logoColor=white" alt="Zephyr" /> <img src="https://img.shields.io/badge/Thonny-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Thonny" /> 
+</p>
 
 ### 🎧 currently
 off from school, perchance building something (☞ ͡° ͜ʖ ͡°)☞
