@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 600px;"> some whimsy, and a little bit of stem</span>
+    <span style="font-size: 600px;"> chudding away and tinkering at my desk </span>
   </strong>
 </p>
 
