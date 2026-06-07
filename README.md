@@ -2,13 +2,13 @@
 
 <p align="center">
   <strong>
-    <span style="font-size: 600px;"> *ੈ✩‧₊˚༺  chudding away and tinkering at my desk   ༻*ੈ✩‧₊˚  </span> 
+    <span style="font-size: 600px;"> *ੈ✩‧₊˚༺  𝘤𝘩𝘶𝘥𝘥𝘪𝘯𝘨 𝘢𝘸𝘢𝘺 𝘢𝘯𝘥 𝘵𝘪𝘯𝘬𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘮𝘺 𝘥𝘦𝘴𝘬    ༻*ੈ✩‧₊˚  </span> 
   </strong>
 </p>
 
 <p align="center">
-Electrical Engineering @ UCalgary <br>
-    embedded systems • firmware • hardware
+EᒪEᑕTᖇIᑕᗩᒪ EᑎGIᑎEEᖇIᑎG @ ᑌᑕᗩᒪGᗩᖇY <br>
+    embedded systems • control systems • instrumentation  ૮₍ ´ ꒳ `₎ა
 </p>
 
 <br clear="right" />
