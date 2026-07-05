@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="giphy2welcome.GIF" width="380" />
+  <img src="sources/giphy2welcome.GIF" width="380" />
 </p>
 
-<img src="cat pfp.png" width="400" align="left" />
+<img src="sources/cat pfp.png" width="400" align="left" />
 
 <br><br>
 
 <div align="center">
   <p>
     <strong><em>𝖼𝗁𝗎𝖽𝖽𝗂𝗇𝗀 𝖺𝗐𝖺𝗒 𝖺𝗇𝖽 𝗍𝗂𝗇𝗄𝖾𝗋𝗂𝗇𝗀 𝖺𝗍 𝗆𝗒 𝖽𝖾𝗌𝗄 .... ༻*ੈ✩‧₊˚</em></strong>
-    <img src="giphy.gif" width="300" />
+    <img src="sources/giphy.gif" width="300" />
     <br><br>
     🇪🇱🇪🇨🇹🇷🇮🇨🇦🇱 🇪🇳🇬🇮🇳🇪🇪🇷🇮🇳🇬 @ 🇺🇨🇦🇱🇬🇦🇷🇾
     <br>
