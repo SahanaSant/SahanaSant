@@ -11,7 +11,7 @@
     <strong><em>𝖼𝗁𝗎𝖽𝖽𝗂𝗇𝗀 𝖺𝗐𝖺𝗒 𝖺𝗇𝖽 𝗍𝗂𝗇𝗄𝖾𝗋𝗂𝗇𝗀 𝖺𝗍 𝗆𝗒 𝖽𝖾𝗌𝗄 .... ༻*ੈ✩‧₊˚</em></strong>
     <img src="sources/giphy.gif" width="400" />
     <br><br>
-    🇪🇱🇪🇨🇹🇷🇮🇨🇦🇱 🇪🇳🇬🇮🇳🇪🇪🇷🇮🇳🇬 @ 🇺🇨🇦🇱🇬🇦🇷🇾
+    ELECTRICAL ENGINEERING @ UCALGARY
     <br>
     embedded systems • control systems • low-level IC.
     <br>
