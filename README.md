@@ -1,19 +1,22 @@
-<img src="giphy.gif" width="40%" align="right" />
+<img src="cat pfp.png" width="400" align="left" />
 
-<p align="center">
-  <strong>
-    <span style="font-size: 600px;"> 𝘤𝘩𝘶𝘥𝘥𝘪𝘯𝘨 𝘢𝘸𝘢𝘺 𝘢𝘯𝘥 𝘵𝘪𝘯𝘬𝘦𝘳𝘪𝘯𝘨 𝘢𝘵 𝘮𝘺 𝘥𝘦𝘴𝘬 ....   ༻*ੈ✩‧₊˚  </span> 
-  </strong>
-</p>
+<br><br><br><br>
 
-<p align="center">
-EᒪEᑕTᖇIᑕᗩᒪ EᑎGIᑎEEᖇIᑎG @ ᑌᑕᗩᒪGᗩᖇY <br>
-    embedded systems • control systems • instrumentation  ૮₍ ´ ꒳ `₎ა
-</p>
+<div align="center">
+  <p>
+    <strong><em>𝖼𝗁𝗎𝖽𝖽𝗂𝗇𝗀 𝖺𝗐𝖺𝗒 𝖺𝗇𝖽 𝗍𝗂𝗇𝗄𝖾𝗋𝗂𝗇𝗀 𝖺𝗍 𝗆𝗒 𝖽𝖾𝗌𝗄 ....  ༻*ੈ✩‧₊˚</em></strong>
+    <img src="giphy.gif" width="250" />
+    <br><br>
+    🇪🇱🇪🇨🇹🇷🇮🇨🇦🇱 🇪🇳🇬🇮🇳🇪🇪🇷🇮🇳🇬 @ 🇺🇨🇦🇱🇬🇦🇷🇾
+    <br>
+    embedded systems • control systems • low-level IC.
+    <br>
+    ૮₍ ´ ꒳ `₎ა
+  </p>
+</div>
 
-<br clear="right" />
-
----
+<br><br><br>
+<br clear="left" />
 
 ## ⚙️ tech stack
 
