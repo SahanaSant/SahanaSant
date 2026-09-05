@@ -36,4 +36,4 @@
 
 ### 🎧 currently
 
-off from school, perchance building something (☞ ͡° ͜ʖ ͡°)☞
+currently in school, perchance building something (☞ ͡° ͜ʖ ͡°)☞
