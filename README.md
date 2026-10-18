@@ -49,8 +49,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Zephyr_RTOS](https://img.shields.io/badge/Zephyr_RTOS-744DA9?style=flat-square) ![LVGL](https://img.shields.io/badge/LVGL-FF6B00?style=flat-square)
 
 <p align="center">
-  <img src="sources/midi-visualizer-bars.png" width="260" />
-  &nbsp;&nbsp;
   <img src="sources/midi-visualizer-modes.png" width="420" />
 </p>
 
