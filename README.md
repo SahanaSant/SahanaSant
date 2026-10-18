@@ -22,6 +22,50 @@
 <br><br>
 <br clear="left" />
 
+## 🧵 things i've built
+
+<p align="center"><sub><em>(the short, honest version — click a title for the actual code)</em></sub></p>
+
+### [Schulich on Chip — RISC-V SoC Verification](https://github.com/Schulich-on-a-Chip/core-v-mcu)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8B5CF6?style=flat-square) ![cocotb](https://img.shields.io/badge/cocotb-2E8B57?style=flat-square) ![LibreLane](https://img.shields.io/badge/LibreLane-RTL--to--GDS-2563EB?style=flat-square)
+
+- hardened peripheral RTL (UART, I²C, I²S, uDMA) on an open-source CORE-V-MCU SoC
+- verified it with cocotb testbenches, then pushed modules through the LibreLane RTL-to-GDS flow
+- currently running a variety of tests on the numerous protocols of the RTL on the beloved basys3! 
+
+### [muzic-player — Embedded Audio Player & Visualizer](https://github.com/SahanaSant/muzic-player)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) ![ESP32--S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4B8BBE?style=flat-square)
+
+<p align="center">
+  <img src="sources/muzic-player-ui.png" width="320" />
+</p>
+
+- touchscreen WAV player with a radix-2 Cooley–Tukey FFT I wrote from scratch, driving a live 13-band spectrum visualizer
+- windowing + DC removal clean up 1024-sample snapshots of the raw PCM stream before each transform
+- FFT bins grouped into log-spaced bands (20 Hz–16 kHz), peak power per band → bar height
+- runs on its own low-priority FreeRTOS task so it never once stutters the audio it's dancing to
+
+### [Nrf52840-Midi-Visualizer](https://github.com/SahanaSant/Nrf52840-Midi-Visualizer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Zephyr_RTOS](https://img.shields.io/badge/Zephyr_RTOS-744DA9?style=flat-square) ![LVGL](https://img.shields.io/badge/LVGL-FF6B00?style=flat-square)
+
+<p align="center">
+  <img src="sources/midi-visualizer-bars.png" width="260" />
+  &nbsp;&nbsp;
+  <img src="sources/midi-visualizer-modes.png" width="420" />
+</p>
+
+- MIDI file parser I wrote byte-by-byte, no external library — raw header/track chunks, variable-length delta-times, running status, tempo and note events
+- feeds a 12-band EQ and piano-mode visualizer on an nRF52840
+- notes sorted bass-to-treble with a velocity-weighted histogram, not a flat 12-way split
+
+**how piano mode maps notes → keys:**
+- each frame scans the 12 EQ bars for the 3 strongest
+- 2 loudest → white keys (bar index 0–11 maps proportionally across the 14 white keys, bass left, treble right)
+- 3rd bar, if close in volume to the 2nd, lights a black key the same way
+- glow brightness scales with that bar's amplitude and fades over time — a note struck and let go, not a flat blink
+
+<br>
+
 ## ⚙️ tech stack
 
 <h3 align="center">Languages & Technical Computing</h3>
