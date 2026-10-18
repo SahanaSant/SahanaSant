@@ -26,14 +26,14 @@
 
 <p align="center"><sub><em>(the short, honest version — click a title for the actual code)</em></sub></p>
 
-### [Schulich on Chip — RISC-V SoC Verification](https://github.com/Schulich-on-a-Chip/core-v-mcu)
+### [𝘚𝘤𝘩𝘶𝘭𝘪𝘤𝘩 𝘰𝘯 𝘊𝘩𝘪𝘱 — 𝘙𝘐𝘚𝘊-𝘝 𝘚𝘰𝘊 𝘝𝘦𝘳𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯](https://github.com/Schulich-on-a-Chip/core-v-mcu)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8B5CF6?style=flat-square) ![cocotb](https://img.shields.io/badge/cocotb-2E8B57?style=flat-square) ![LibreLane](https://img.shields.io/badge/LibreLane-RTL--to--GDS-2563EB?style=flat-square)
 
 - hardened peripheral RTL (UART, I²C, I²S, uDMA) on an open-source CORE-V-MCU SoC
 - verified it with cocotb testbenches, then pushed modules through the LibreLane RTL-to-GDS flow
 - currently running a variety of tests on the numerous protocols of the RTL on the beloved basys3! 
 
-### [muzic-player — Embedded Audio Player & Visualizer](https://github.com/SahanaSant/muzic-player)
+### [𝘮𝘶𝘻𝘪𝘤-𝘱𝘭𝘢𝘺𝘦𝘳 — 𝘌𝘮𝘣𝘦𝘥𝘥𝘦𝘥 𝘈𝘶𝘥𝘪𝘰 𝘗𝘭𝘢𝘺𝘦𝘳 & 𝘝𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘦𝘳](https://github.com/SahanaSant/muzic-player)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square) ![ESP32--S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4B8BBE?style=flat-square)
 
 <p align="center">
@@ -45,7 +45,7 @@
 - FFT bins grouped into log-spaced bands (20 Hz–16 kHz), peak power per band → bar height
 - runs on its own low-priority FreeRTOS task so it never once stutters the audio it's dancing to
 
-### [Nrf52840-Midi-Visualizer](https://github.com/SahanaSant/Nrf52840-Midi-Visualizer)
+### [𝘕𝘳𝘧52840-𝘔𝘪𝘥𝘪-𝘝𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘦𝘳](https://github.com/SahanaSant/Nrf52840-Midi-Visualizer)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Zephyr_RTOS](https://img.shields.io/badge/Zephyr_RTOS-744DA9?style=flat-square) ![LVGL](https://img.shields.io/badge/LVGL-FF6B00?style=flat-square)
 
 <p align="center">
