@@ -29,6 +29,10 @@
 ### [𝘚𝘤𝘩𝘶𝘭𝘪𝘤𝘩 𝘰𝘯 𝘊𝘩𝘪𝘱 — 𝘙𝘐𝘚𝘊-𝘝 𝘚𝘰𝘊 𝘝𝘦𝘳𝘪𝘧𝘪𝘤𝘢𝘵𝘪𝘰𝘯](https://github.com/Schulich-on-a-Chip/core-v-mcu)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-8B5CF6?style=flat-square) ![cocotb](https://img.shields.io/badge/cocotb-2E8B57?style=flat-square) ![LibreLane](https://img.shields.io/badge/LibreLane-RTL--to--GDS-2563EB?style=flat-square)
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/261805719?s=200&v=4" width="320" />
+</p>
+
 - hardened peripheral RTL (UART, I²C, I²S, uDMA) on an open-source CORE-V-MCU SoC
 - verified it with cocotb testbenches, then pushed modules through the LibreLane RTL-to-GDS flow
 - currently running a variety of tests on the numerous protocols of the RTL on the beloved basys3! 
