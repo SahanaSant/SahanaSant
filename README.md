@@ -13,7 +13,7 @@
     <br><br>
     ELECTRICAL ENGINEERING @ UCALGARY
     <br>
-    incoming garmin 2027 embedded systems intern :D
+    incoming embedded systems intern @ garmin (27') :D
     <br>
     ૮₍ ´ ꒳ `₎ა
   </p>
