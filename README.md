@@ -13,7 +13,7 @@
     <br><br>
     ELECTRICAL ENGINEERING @ UCALGARY
     <br>
-    incoming embedded systems intern @ garmin (27') :D
+    Incoming Embedded Systems Intern @ Garmin Canada ('27) :D
     <br>
     ૮₍ ´ ꒳ `₎ა
   </p>
