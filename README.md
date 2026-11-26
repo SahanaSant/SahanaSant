@@ -13,6 +13,8 @@
     <br><br>
     ELECTRICAL ENGINEERING @ UCALGARY
     <br>
+    **incoming garmin 2027 embedded systems intern :D**
+    <br>
     embedded systems • control systems • low-level IC.
     <br>
     ૮₍ ´ ꒳ `₎ა
